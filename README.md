@@ -1,21 +1,4 @@
-<p align="center">
-  <img alt="Banner" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='600' height='120'>
-    <defs>
-      <linearGradient id='grad' x1='0' y1='0' x2='1' y2='1'>
-        <stop offset='0%' stop-color='%236DB33F'/>
-        <stop offset='100%' stop-color='%23255E32'/>
-      </linearGradient>
-    </defs>
-    <rect width='600' height='120' fill='url(%23grad)' rx='15' ry='15'/>
-    <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Segoe UI, Tahoma, Geneva, Verdana, sans-serif' font-size='28' fill='white' font-weight='600'>
-      Hi there, I'm Anton Shkonda 👋
-    </text>
-    <text x='50%' y='75%' dominant-baseline='middle' text-anchor='middle' font-family='Segoe UI, Tahoma, Geneva, Verdana, sans-serif' font-size='18' fill='white'>
-      Java Backend Developer
-    </text>
-  </svg>"/>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20there,%20I'm%20Anton%20Shkonda%20👋&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Java%20Backend%20Developer&descAlignY=70&descAlign=62)
 
 ---
 
