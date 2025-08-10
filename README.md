@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20there,%20I'm%20Anton%20Shkonda%20👋&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Java%20Backend%20Developer&descAlignY=70&descAlign=62)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20there,%20I'm%20Anton%20Shkonda%20&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Java%20Backend%20Developer&descAlignY=70&descAlign=62)
 
 ---
 
