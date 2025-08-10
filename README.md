@@ -1,7 +1,21 @@
-<div align="center" style="border: 2px solid #6DB33F; border-radius: 12px; padding: 20px; background-color: #f5f5f5;">
-  <h2 style="color: #6DB33F;">Hi there, I'm Anton Shkonda</h1>
-  <h4>Java Backend Developer</h3>
-</div>
+<p align="center">
+  <img alt="Banner" src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='600' height='120'>
+    <defs>
+      <linearGradient id='grad' x1='0' y1='0' x2='1' y2='1'>
+        <stop offset='0%' stop-color='%236DB33F'/>
+        <stop offset='100%' stop-color='%23255E32'/>
+      </linearGradient>
+    </defs>
+    <rect width='600' height='120' fill='url(%23grad)' rx='15' ry='15'/>
+    <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Segoe UI, Tahoma, Geneva, Verdana, sans-serif' font-size='28' fill='white' font-weight='600'>
+      Hi there, I'm Anton Shkonda 👋
+    </text>
+    <text x='50%' y='75%' dominant-baseline='middle' text-anchor='middle' font-family='Segoe UI, Tahoma, Geneva, Verdana, sans-serif' font-size='18' fill='white'>
+      Java Backend Developer
+    </text>
+  </svg>"/>
+</p>
 
 ---
 
@@ -34,7 +48,7 @@
   <a href="https://t.me/indeece" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="loops4indeece@gmail.com">
+  <a href="mailto:loops4indeece@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
