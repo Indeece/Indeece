@@ -2,7 +2,7 @@
 
 ---
 
-💻 I’m passionate about learning new technologies and building reliable, scalable, and secure backend systems. I enjoy working with microservices and integrating AI—like for supporting chatbots and automating tasks—to create smarter, more efficient solutions.
+💻 I’m passionate about learning new technologies and building reliable, scalable, and secure backend systems. I enjoy working with microservices and integrating AI
 
 ---
 
