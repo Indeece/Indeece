@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #6DB33F; border-radius: 12px; padding: 20px; background-color: #f5f5f5;">
-  <h1 style="color: #6DB33F;">Hi there, I'm Anton Shkonda</h1>
-  <h3>Java Backend Developer</h3>
+  <h2 style="color: #6DB33F;">Hi there, I'm Anton Shkonda</h1>
+  <h4>Java Backend Developer</h3>
 </div>
 
 ---
