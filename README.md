@@ -1,12 +1,6 @@
 # Hi there, I'm Anton Shkonda  
 ### Java Backend Developer  
 
----
-
-💻 I’m passionate about learning new technologies and building reliable, scalable, and secure backend systems. I enjoy working with microservices and integrating AI
-
----
-
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
